@@ -260,6 +260,8 @@ The approach supports realistic feasibility analysis of quantum communication sy
 
 If you use this code or model in your research, please cite the associated manuscript (details to be added upon acceptance).
 
+see [CITATION.cff](CITATION)
+
 ---
 
 ## License
