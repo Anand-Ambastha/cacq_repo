@@ -197,12 +197,12 @@ SKR  = max(0,  Q_µ · [1 − f_EC · h(QBER)])
 
 ### Actual Screenshots
 <p align="center">
-  <img src="assets\p1.png" width="45%" />
+  <img src="assests\p1.png" width="45%" />
   <img src="assests\p2.png" width="45%" />
 </p>
 
 <p align="center">
-  <img src="assets\summary.png" width="70%" />
+  <img src="assests\summary.png" width="70%" />
 </p>
 
 ### ⚙️ Simulation Backend Note
