@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+title: "CAQC — Climate-Aware Quantum Channel Model"
+message: "If you use this software, please cite it as below."
+type: software
+
+authors:
+  - family-names: Kumar
+    given-names: Anand
+
+version: "1.0.0"
+date-released: 2026-01-01
+
+url: "https://github.com/Anand-Ambastha/cacq_repo"
+
+repository-code: "https://github.com/Anand-Ambastha/cacq_repo"
+
+abstract: >
+  CAQC (Climate-Aware Quantum Channel) is a physics-consistent simulation
+  framework for evaluating satellite-to-ground free-space quantum key
+  distribution (QKD) under realistic atmospheric conditions derived from
+  ERA5 and CAMS reanalysis data.
+
+keywords:
+  - Quantum Key Distribution
+  - Free-space optics
+  - Atmospheric modeling
+  - Satellite communication
+  - ERA5
+  - CAMS
+
+license: "All Rights Reserved"

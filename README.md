@@ -1,6 +1,7 @@
 # CAQC — Climate-Aware Quantum Channel Model
 
-> **Manuscript under review.** This repository accompanies a paper submitted for peer-reviewed publication. All rights reserved — see [LICENSE](LICENSE).
+> **Manuscript currently under review at an IEEE venue.**  
+> This repository accompanies the submitted research work.All rights reserved — see [LICENSE](LICENSE).
 
 ---
 
