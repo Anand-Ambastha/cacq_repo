@@ -1,0 +1,31 @@
+# ─────────────────────────────────────────────────────────
+#  CAQC — Python dependencies
+#  Install:  pip install -r requirements.txt
+# ─────────────────────────────────────────────────────────
+
+# Core scientific stack
+numpy>=1.24
+scipy>=1.10
+pandas>=2.0
+xarray>=2023.1
+netCDF4>=1.6
+
+# Atmospheric / satellite data
+cdsapi>=0.6.1
+cfgrib>=0.9.10
+
+# Orbital mechanics
+skyfield>=1.46
+
+# Visualisation
+matplotlib>=3.7
+
+# Interactive dashboard
+streamlit>=1.33
+
+# Testing
+pytest>=7.4
+pytest-cov>=4.1
+
+# Optional — accelerated GRIB decoding
+# eccodes>=1.6   (system library; install via  apt-get install libeccodes-dev)
